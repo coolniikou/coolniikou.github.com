@@ -1,0 +1,85 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>OSAKA MRATHONG Count Down js sample</title>
+</head>
+<body>
+	<p>大阪マラソン開催まで、あと</p>
+	<div>
+		<div id="omcd"></div>
+	</div>
+	<script type="text/javascript">
+	(function() {
+		var omcd = document.getElementById('omcd'),
+		now, point, diff, dr, hr, minr, st,
+		thisInterval = null,
+		zerofill = function(str) {
+			var str = '00' + str;
+			str = str.substr(str.length-2, 2);
+			return str;
+		},
+		thisInterval = setInterval( function() {
+			now = new Date();
+			point = new Date(2011,10-1,30);
+			diff = Math.ceil(
+				( point.getTime() - now.getTime() ) / 1000 );
+			dr = Math.floor( diff / (86400) );
+			hr = Math.floor( diff % (86400) / (3600) );
+			minr = (Math.floor( diff % (86400) /  60 ) % 60 );
+			sr = (Math.floor( diff % (86400) %  60 ) % 60 );
+			minr = '00' + minr;
+			sr = '00' + sr;
+			if(diff > 0) {
+						omcd.innerHTML =  dr + '日 ' + zerofill(hr) + '時間 '+ zerofill(minr) + '分' + zerofill(sr) + '秒';
+
+			} else {
+					c.innerHTML = 'It\'s that time already. Enjoy Run!';
+					clearInterval(thisInterval);
+			}
+
+
+		},   980  );
+
+	})();
+</script>
+	<p>KOBEマラソン開催まで、あと</p>
+	<div>
+		<div id="kmcd"></div>
+	</div>
+	<script type="text/javascript">
+	(function() {
+		var kmcd = document.getElementById('omcd'),
+		now, point, diff, dr, hr, minr, st,
+		thisInterval = null,
+		zerofill = function(str) {
+			var str = '00' + str;
+			str = str.substr(str.length-2, 2);
+			return str;
+		},
+		thisInterval = setInterval( function() {
+			now = new Date();
+			point = new Date(2011,10-1,30);
+			diff = Math.ceil(
+				( point.getTime() - now.getTime() ) / 1000 );
+			dr = Math.floor( diff / (86400) );
+			hr = Math.floor( diff % (86400) / (3600) );
+			minr = (Math.floor( diff % (86400) /  60 ) % 60 );
+			sr = (Math.floor( diff % (86400) %  60 ) % 60 );
+			minr = '00' + minr;
+			sr = '00' + sr;
+			if(diff > 0) {
+						kmcd.innerHTML =  dr + '日 ' + zerofill(hr) + '時間 '+ zerofill(minr) + '分' + zerofill(sr) + '秒';
+
+			} else {
+					c.innerHTML = 'It\'s that time already. Enjoy Run!';
+					clearInterval(thisInterval);
+			}
+
+
+		},   980  );
+
+	})();
+</script>
+</body>
+</html>
