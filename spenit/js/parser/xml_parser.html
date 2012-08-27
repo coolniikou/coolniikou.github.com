@@ -1,0 +1,30 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>xml parse</title>
+</head>
+	<script type="text/javascript" src="https://www.google.com/jsapi"></script>
+	<script type="text/javascript">
+		google.load("jquery", "1.6.1");
+	</script>
+	<script type="text/javascript">
+		$(document).ready(function () {
+			$.ajax({
+				type: "GET",
+				url: "./sample.xml",
+				// url: "http://mb.softbank.jp/mb/apl/pc/wifispot/spotsearch/spotlist?prefecture=28&city=282014&_=1309068719605",
+				dataType: "xml",
+				error: function(){
+        					alert('Error loading XML document');
+    					},
+				success: function(xml) {
+						console.log(xml);
+						}
+			});
+		});
+	</script>
+<body>
+	
+</body>
+</html>

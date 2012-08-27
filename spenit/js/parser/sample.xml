@@ -1,0 +1,1994 @@
+
+<?xml version="1.0" encoding="UTF-8" ?> 
+<spot_list> 
+  <item_count>117</item_count> 
+  <item> 
+    <spotid>20101129000011711</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>Ａｕｄｉ</brand_name> 
+    <store_name>Ａｕｄｉ姫路</store_name> 
+    <address>兵庫県姫路市飾磨区三宅1-139</address> 
+    <tel>079-283-8800</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours>9:00-20:00</business_hours> 
+    <holiday>水</holiday> 
+    <parking_flg /> 
+    <image_file /> 
+    <url>http://www.audi.co.jp/jp/brand/ja.html</url> 
+    <note>ｾｰﾙｽ定休日：水、ｻｰﾋﾞｽ定休日：水</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20100930000009117</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＢｏｎＶｏｙａｇｅ</brand_name> 
+    <store_name>ＢｏｎＶｏｙａｇｅ</store_name> 
+    <address>兵庫県姫路市西駅前町８８キャスパビル１Ｆ</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPLL</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110530000029584</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＢｕｏｎａＶｉｔａ</brand_name> 
+    <store_name>ＢｕｏｎａＶｉｔａ 姫路大津店</store_name> 
+    <address>兵庫県姫路市大津区大津町2 ｲｵﾝ姫路SC内</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110404000025498</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ</brand_name> 
+    <store_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ ＦＲＩＤＡＹ</store_name> 
+    <address>兵庫県姫路市塩町96-1</address> 
+    <tel>0792-25-0270</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110307000021539</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ</brand_name> 
+    <store_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ ＫＥＩＺＯ</store_name> 
+    <address>兵庫県姫路市魚町108 星の館ﾋﾞﾙ1F</address> 
+    <tel>079-223-7630</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110404000025425</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ</brand_name> 
+    <store_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ Ｏｕｔｌａｗ’ｓ</store_name> 
+    <address>兵庫県姫路市塩町182</address> 
+    <tel>079-284-6282</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110322000023354</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ</brand_name> 
+    <store_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ Ｐｒｅｓｅｎ</store_name> 
+    <address>兵庫県姫路市塩町158</address> 
+    <tel>079-282-6111</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110404000025397</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ</brand_name> 
+    <store_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ ほっこり</store_name> 
+    <address>兵庫県姫路市塩町75</address> 
+    <tel>079-282-3353</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110404000025284</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ</brand_name> 
+    <store_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ よっちゃん</store_name> 
+    <address>兵庫県姫路市塩町72</address> 
+    <tel>079-281-0013</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110404000025393</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ</brand_name> 
+    <store_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ 可恋</store_name> 
+    <address>兵庫県姫路市魚町116</address> 
+    <tel>0792-89-2617</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110404000025457</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ</brand_name> 
+    <store_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ 夜来香</store_name> 
+    <address>兵庫県姫路市魚町116</address> 
+    <tel>079-281-8216</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110322000023503</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ</brand_name> 
+    <store_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ 天満</store_name> 
+    <address>兵庫県姫路市香寺町中仁野302-13</address> 
+    <tel>079-232-8751</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110404000025427</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ</brand_name> 
+    <store_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ 文</store_name> 
+    <address>兵庫県姫路市塩町175</address> 
+    <tel>0792-23-3030</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110322000023387</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ</brand_name> 
+    <store_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ 灯スナックあづ</store_name> 
+    <address>兵庫県姫路市広畑区吾妻町1-2</address> 
+    <tel>079-243-9255</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110404000025455</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ</brand_name> 
+    <store_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ 花宮</store_name> 
+    <address>兵庫県姫路市魚町106</address> 
+    <tel>079-284-2123</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110523000029016</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ</brand_name> 
+    <store_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ 赤とんぼ</store_name> 
+    <address>兵庫県姫路市勝原区宮田519-5</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110404000025426</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ</brand_name> 
+    <store_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ 遊月</store_name> 
+    <address>兵庫県姫路市塩町96-1</address> 
+    <tel>079-222-7224</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110404000025454</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ</brand_name> 
+    <store_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ 飯屋</store_name> 
+    <address>兵庫県姫路市塩町188</address> 
+    <tel>079-284-1666</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110404000025453</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ</brand_name> 
+    <store_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ スナック夕月</store_name> 
+    <address>兵庫県姫路市塩町75</address> 
+    <tel>0792-89-4816</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110322000023337</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ</brand_name> 
+    <store_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ メンバーズ伊藤</store_name> 
+    <address>兵庫県姫路市塩町182</address> 
+    <tel>0792-82-0890</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110404000025456</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ</brand_name> 
+    <store_name>ＪＯＹＳＯＵＮＤ×ＵＧＡ メンバーズ城</store_name> 
+    <address>兵庫県姫路市塩町188</address> 
+    <tel>079-288-8866</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20100930000009272</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>その他</brand_name> 
+    <store_name>JR姫路駅(新幹線改札内 待合スペース） (★)</store_name> 
+    <address>兵庫県姫路市駅前町188</address> 
+    <tel>-</tel> 
+    <station_name>ＪＲ姫路駅</station_name> 
+    <transportation /> 
+    <business_hours>始発〜終電</business_hours> 
+    <holiday>無休</holiday> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>このエリアでは、SSIDを自動検出することができない環境になっています。事前にSSIDとWEPキーを設定してご利用ください。</note> 
+    <service_solution_code>BBMPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110606000029846</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＪＵＮＫＵＤＯ</brand_name> 
+    <store_name>ＪＵＮＫＵＤＯ 姫路店</store_name> 
+    <address>兵庫県姫路市豆腐町222 ﾌﾟﾘｴ姫路2F</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110606000030044</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＬＯＴＵＳ</brand_name> 
+    <store_name>ＬＯＴＵＳ ｂｉｓ　マックスバリュ　姫路別所店</store_name> 
+    <address>兵庫県姫路市別所町別所2-66</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20101115000010975</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＭＩＮＩ</brand_name> 
+    <store_name>ＭＩＮＩ姫路</store_name> 
+    <address>兵庫県姫路市飾磨区構2-119</address> 
+    <tel>079-235-3298</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday>火曜・年末年始</holiday> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20100930000009316</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＯＡＣ美術スクール</brand_name> 
+    <store_name>ＯＡＣ美術スクール</store_name> 
+    <address>兵庫県姫路市駅前町２４１市バス　ターミナルビル６階</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPLL</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110516000028520</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ＰＥＵＧＥＯＴ</brand_name> 
+    <store_name>ＰＥＵＧＥＯＴ 姫路</store_name> 
+    <address>兵庫県姫路市土山5-7-26</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110523000028859</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>さかなや道場</brand_name> 
+    <store_name>さかなや道場 姫路駅前店</store_name> 
+    <address>兵庫県姫路市駅前町232</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110131000017895</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>チムニー</brand_name> 
+    <store_name>さかなや道場　姫路駅南店</store_name> 
+    <address>兵庫県姫路市南駅前町125ｽﾃｰｼｮﾝﾌﾟﾗｻﾞ姫路1F</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110307000021052</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ジー・ネットワークス</brand_name> 
+    <store_name>とりあえず吾平 兵庫姫路店</store_name> 
+    <address>兵庫県姫路市東山9-4</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110613000031624</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>はなの舞</brand_name> 
+    <store_name>はなの舞 姫路駅前店</store_name> 
+    <address>兵庫県姫路市駅前町338 WATﾋﾞﾙB1F</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110523000028969</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ぽんぽこ</brand_name> 
+    <store_name>ぽんぽこ 市川橋店</store_name> 
+    <address>兵庫県姫路市市川橋通り1-25</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20100930000009605</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>まる神運送</brand_name> 
+    <store_name>まる神運送</store_name> 
+    <address>兵庫県姫路市白浜町寺家２丁目１９７</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPLL</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110307000021222</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>和食さと</brand_name> 
+    <store_name>和食さと 今宿</store_name> 
+    <address>兵庫県姫路市車崎3-2-7</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110307000021231</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>和食さと</brand_name> 
+    <store_name>和食さと 姫路南</store_name> 
+    <address>兵庫県姫路市飾磨区三宅1-1</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110308000021766</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>和食さと</brand_name> 
+    <store_name>和食さと 広畑</store_name> 
+    <address>兵庫県姫路市広畑区高浜町3-7-6</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110207000018642</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ジー・ネットワークス</brand_name> 
+    <store_name>小樽食堂 兵庫姫路御立店</store_name> 
+    <address>兵庫県姫路市御立西1-22-33</address> 
+    <tel>079-291-0711</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20100930000009760</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>手打ちうどん招福</brand_name> 
+    <store_name>手打ちうどん招福</store_name> 
+    <address>兵庫県姫路市総社本町９５</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPLL</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110328000023955</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>日産プリンス兵庫販売</brand_name> 
+    <store_name>日産プリンス兵庫販売 姫路中古車センター</store_name> 
+    <address>兵庫県姫路市東今宿3-13-10</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110328000023959</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>日産プリンス兵庫販売</brand_name> 
+    <store_name>日産プリンス兵庫販売 姫路店</store_name> 
+    <address>兵庫県姫路市西今宿3-1-11</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110328000023954</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>日産プリンス兵庫販売</brand_name> 
+    <store_name>日産プリンス兵庫販売 姫路東店</store_name> 
+    <address>兵庫県姫路市花田町一本松36-1</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110516000027875</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>日産プリンス兵庫販売株式会社</brand_name> 
+    <store_name>日産プリンス兵庫販売 広畑店</store_name> 
+    <address>兵庫県姫路市広畑区長町2-121</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20101210000013945</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>昭和シェル石油</brand_name> 
+    <store_name>昭和シェル石油 東延末</store_name> 
+    <address>兵庫県姫路市東延末2-153</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20101210000014191</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>昭和シェル石油</brand_name> 
+    <store_name>昭和シェル石油 的形</store_name> 
+    <address>兵庫県姫路市的形町的形1762-5</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110114000016490</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>昭和シェル石油</brand_name> 
+    <store_name>昭和シェル石油 花田インター</store_name> 
+    <address>兵庫県姫路市御国野町深志野字竹ﾉ下211-4</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20101115000011390</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>昭和シェル石油</brand_name> 
+    <store_name>昭和シェル石油白国ＳＳ</store_name> 
+    <address>兵庫県姫路市白国1-6-20</address> 
+    <tel>079-224-5359</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20101115000011319</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>昭和シェル石油</brand_name> 
+    <store_name>昭和シェル石油西姫路ＳＳ</store_name> 
+    <address>兵庫県姫路市南車崎2-9-16</address> 
+    <tel>079-292-0343</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20101115000011408</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>昭和シェル石油</brand_name> 
+    <store_name>昭和シェル石油香呂ＳＳ</store_name> 
+    <address>兵庫県姫路市香寺町広瀬18-1</address> 
+    <tel>079-232-2000</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20101115000011322</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>昭和シェル石油</brand_name> 
+    <store_name>昭和シェル石油カーフル御立ＳＳ</store_name> 
+    <address>兵庫県姫路市書写1019-379</address> 
+    <tel>079-295-4115</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20101115000011321</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>昭和シェル石油</brand_name> 
+    <store_name>昭和シェル石油シーサイド姫路天神ＳＳ</store_name> 
+    <address>兵庫県姫路市大津区天神町2-5</address> 
+    <tel>079-236-0225</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20101115000011320</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>昭和シェル石油</brand_name> 
+    <store_name>昭和シェル石油セルフ夢前橋ＳＳ</store_name> 
+    <address>兵庫県姫路市下手野3-1-5</address> 
+    <tel>079-297-1011</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110221000020059</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>東日本ハウス</brand_name> 
+    <store_name>東日本ハウス 姫路駅前展示場</store_name> 
+    <address>兵庫県姫路市市之郷宮西763-2 ｷｬｽﾃｨ21展示場内姫路駅前展示場1F</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110516000027837</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>牛角</brand_name> 
+    <store_name>牛角 姫路飾磨店</store_name> 
+    <address>兵庫県姫路市亀山1-60</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110114000016674</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>玄品ふぐ</brand_name> 
+    <store_name>玄品ふぐ 姫路の関</store_name> 
+    <address>兵庫県姫路市紺屋町44</address> 
+    <tel>079-288-7329</tel> 
+    <station_name>JR神戸線 姫路駅5分</station_name> 
+    <transportation /> 
+    <business_hours>17:00〜22:30</business_hours> 
+    <holiday>無休</holiday> 
+    <parking_flg>0</parking_flg> 
+    <image_file /> 
+    <url /> 
+    <note>38席</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110131000017949</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>眼鏡市場</brand_name> 
+    <store_name>眼鏡市場 姫路岡町</store_name> 
+    <address>兵庫県姫路市岡町10-1</address> 
+    <tel>079-299-5388</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110124000017339</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>眼鏡市場</brand_name> 
+    <store_name>眼鏡市場 姫路構</store_name> 
+    <address>兵庫県姫路市飾磨区構2-79</address> 
+    <tel>079-243-1018</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110516000027957</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>積水ハウス</brand_name> 
+    <store_name>積水ハウス 姫路南展示場</store_name> 
+    <address>兵庫県姫路市飾磨区細江520</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110613000031645</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>積水ハウス</brand_name> 
+    <store_name>積水ハウス 姫路東展示場</store_name> 
+    <address>兵庫県姫路市市之郷宮西763-2 ｷｬｽﾃｨ21住宅展示場内</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110516000027961</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>積水ハウス</brand_name> 
+    <store_name>積水ハウス 姫路シャーウッド展示場</store_name> 
+    <address>兵庫県姫路市書写634-13</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20101210000014376</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>能力開発センター</brand_name> 
+    <store_name>能力開発センター姫路本校</store_name> 
+    <address>兵庫県姫路市北条口2-8 ｳｲﾝｸﾞｽﾋﾞﾙ2F</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110307000020872</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>自遊空間</brand_name> 
+    <store_name>自遊空間 姫路ワシントンホテル店</store_name> 
+    <address>兵庫県姫路市東駅前町98 ﾜｼﾝﾄﾝﾌﾟﾗｻﾞ 1F</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110207000018300</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>野村證券</brand_name> 
+    <store_name>野村證券 姫路支店</store_name> 
+    <address>兵庫県姫路市白銀町18 日本生命姫路白銀ﾋﾞﾙ</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110214000019058</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>アップガレージ</brand_name> 
+    <store_name>アップガレージ 姫路店</store_name> 
+    <address>兵庫県姫路市飾磨区野田町126</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110322000022812</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>アルク</brand_name> 
+    <store_name>アルク 姫路駅前</store_name> 
+    <address>兵庫県姫路市駅前町328三姫ﾋﾞﾙ1階</address> 
+    <tel>079-221-5698</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110114000016358</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>イエローハット</brand_name> 
+    <store_name>イエローハット今宿店</store_name> 
+    <address>兵庫県姫路市神子岡前1-8-30-2</address> 
+    <tel>079-299-7007</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours>※「スポット情報URL」よりご確認下さい。</business_hours> 
+    <holiday>※「スポット情報URL」よりご確認下さい。</holiday> 
+    <parking_flg>0</parking_flg> 
+    <image_file /> 
+    <url>http://www.yellowhat.jp/svc/StoreTop.do?storeCode=0553</url> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110214000019119</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>エッソ</brand_name> 
+    <store_name>エッソ セルフ姫路給油所</store_name> 
+    <address>兵庫県姫路市香寺町溝口975-1</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110210000019026</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>オフィスＳＡＷＡ</brand_name> 
+    <store_name>オフィスＳＡＷＡ</store_name> 
+    <address>兵庫県姫路市伊伝居６０３</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPLL</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110221000019697</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>カメラのキタムラ</brand_name> 
+    <store_name>カメラのキタムラ 姫路/英賀保店</store_name> 
+    <address>兵庫県姫路市飾磨区英賀清水町2-22</address> 
+    <tel>079-238-2066</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20100930000009013</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ココイチ</brand_name> 
+    <store_name>カレーハウスCoCo壱番屋 姫路網干店</store_name> 
+    <address>兵庫県姫路市網干区大江島古川町69</address> 
+    <tel>079-271-3939</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20101129000011740</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ココイチ</brand_name> 
+    <store_name>カレーハウスCoCo壱番屋 姫路駅前町店</store_name> 
+    <address>兵庫県姫路市駅前町316</address> 
+    <tel>079-225-7021</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg>0</parking_flg> 
+    <image_file /> 
+    <url /> 
+    <note>29席</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20100930000008821</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ココイチ</brand_name> 
+    <store_name>カレーハウスCoCo壱番屋姫路文化ｾﾝﾀｰ店</store_name> 
+    <address>兵庫県姫路市延末字橋詰84-7</address> 
+    <tel>079-297-2582</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20100930000009001</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ココイチ</brand_name> 
+    <store_name>カレーハウスCoCo壱番屋姫路砥堀店</store_name> 
+    <address>兵庫県姫路市砥堀745-1</address> 
+    <tel>079-265-5557</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20100930000009041</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ココイチ</brand_name> 
+    <store_name>カレーハウスCoCo壱番屋飾磨区下野田店</store_name> 
+    <address>兵庫県姫路市飾磨区下野田1-175</address> 
+    <tel>079-233-5771</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110523000028959</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>キングファミリー</brand_name> 
+    <store_name>キングファミリー 姫路保城店</store_name> 
+    <address>兵庫県姫路市保城460-2</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110124000017498</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ゴルフパートナー</brand_name> 
+    <store_name>ゴルフパートナー 姫路砥堀店</store_name> 
+    <address>千葉県姫路市砥堀696-3</address> 
+    <tel>079-265-3900</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours>10:00〜20:00</business_hours> 
+    <holiday>年中無休</holiday> 
+    <parking_flg /> 
+    <image_file /> 
+    <url>http://www.golfpartner.co.jp/969</url> 
+    <note>中古クラブを中心に、最新モデルクラブやボールやグローブ、キャディバックまで豊富な品揃えでゴルファーをお迎えしております。 初心者の方でも一からアドバイス致しますので、スタッフにお気軽にご質問ください。7</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110124000017485</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ゴルフパートナー</brand_name> 
+    <store_name>ゴルフパートナー 青山練習場店</store_name> 
+    <address>兵庫県姫路市青山1464</address> 
+    <tel>079-267-1517</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours>10:00〜21:00</business_hours> 
+    <holiday>年中無休</holiday> 
+    <parking_flg /> 
+    <image_file /> 
+    <url>http://www.golfpartner.co.jp/533</url> 
+    <note>中古クラブを中心に、最新モデルクラブやボールやグローブ、キャディバックまで豊富な品揃えでゴルファーをお迎えしております。 初心者の方でも一からアドバイス致しますので、スタッフにお気軽にご質問ください。300</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110221000020065</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>サンマルクカフェ</brand_name> 
+    <store_name>サンマルクカフェ 姫路みゆき通店</store_name> 
+    <address>兵庫県姫路市駅前町267</address> 
+    <tel>0792-25-5309</tel> 
+    <station_name>ＪＲ山陽本線　姫路駅 徒歩5分</station_name> 
+    <transportation /> 
+    <business_hours>07:00〜21:30</business_hours> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url>http://www.saint-marc-hd.com/cafe/</url> 
+    <note>71席</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110523000028871</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ザ・ダイソー</brand_name> 
+    <store_name>ザ・ダイソー ひめじ飾西店</store_name> 
+    <address>兵庫県姫路市飾西84-1</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110523000028883</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ザ・ダイソー</brand_name> 
+    <store_name>ザ・ダイソー 網干店</store_name> 
+    <address>兵庫県姫路市網干区北新在家205</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110425000027170</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>スターバックスコーヒー</brand_name> 
+    <store_name>スターバックスコーヒー姫路飾磨店</store_name> 
+    <address>兵庫県姫路市飾磨区恵美酒236</address> 
+    <tel>079-243-2115</tel> 
+    <station_name>飾磨駅西口（山陽電鉄本線、山陽電鉄網干線）徒歩10分亀山駅出入口（山陽電鉄本線）徒歩15分メモ：駅前を北へ約300m進み、西へ約400m進んだ右側 (西松屋様の看板が目印)</station_name> 
+    <transportation /> 
+    <business_hours>08:00〜24:00</business_hours> 
+    <holiday>不定休</holiday> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110425000027167</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>スターバックスコーヒー</brand_name> 
+    <store_name>スターバックスコーヒーイオン姫路大津店</store_name> 
+    <address>兵庫県姫路市大津区大津町2-5イオン姫路大津ショッピングセンター</address> 
+    <tel>079-230-6912</tel> 
+    <station_name>はりま勝原駅出入口（JR山陽本線）徒歩19分</station_name> 
+    <transportation /> 
+    <business_hours>09:00〜22:00</business_hours> 
+    <holiday>不定休</holiday> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>K2E2</spotid> 
+    <spottype>1</spottype> 
+    <brand_name /> 
+    <store_name>ソフトバンクひめじ別所</store_name> 
+    <address>兵庫県姫路市別所町別所 ２丁目６６</address> 
+    <tel>079-252-7701</tel> 
+    <station_name /> 
+    <transportation>ＪＲひめじ別所駅より徒歩５分！イオンタウン別所姫路店内！</transportation> 
+    <business_hours>10:00～20:00</business_hours> 
+    <holiday>年中無休</holiday> 
+    <parking_flg>1</parking_flg> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code /> 
+  </item> 
+  <item> 
+    <spotid>K236</spotid> 
+    <spottype>1</spottype> 
+    <brand_name /> 
+    <store_name>ソフトバンク姫路みゆき通り</store_name> 
+    <address>兵庫県姫路市駅前町２７５番地</address> 
+    <tel>079-226-0088</tel> 
+    <station_name /> 
+    <transportation>ＪＲ姫路駅北口徒歩５分、商店街２本目十字路右</transportation> 
+    <business_hours>10:00～20:00</business_hours> 
+    <holiday>年中無休</holiday> 
+    <parking_flg>0</parking_flg> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code /> 
+  </item> 
+  <item> 
+    <spotid>K211</spotid> 
+    <spottype>1</spottype> 
+    <brand_name /> 
+    <store_name>ソフトバンク姫路中地</store_name> 
+    <address>兵庫県姫路市飾磨区構 ２丁目８番地</address> 
+    <tel>079-231-5255</tel> 
+    <station_name /> 
+    <transportation>姫路バイパス中地ＩＣ南下、ドン・キホーテ斜め前！</transportation> 
+    <business_hours>10:00～20:00</business_hours> 
+    <holiday>年中無休</holiday> 
+    <parking_flg>1</parking_flg> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code /> 
+  </item> 
+  <item> 
+    <spotid>K242</spotid> 
+    <spottype>1</spottype> 
+    <brand_name /> 
+    <store_name>ソフトバンク姫路今宿</store_name> 
+    <address>兵庫県姫路市東今宿 ６丁目１－３０</address> 
+    <tel>079-299-5000</tel> 
+    <station_name /> 
+    <transportation>大型ショッピング　ザ・モール　目の前</transportation> 
+    <business_hours>10:00～20:00</business_hours> 
+    <holiday>年中無休</holiday> 
+    <parking_flg>1</parking_flg> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code /> 
+  </item> 
+  <item> 
+    <spotid>K2C3</spotid> 
+    <spottype>1</spottype> 
+    <brand_name /> 
+    <store_name>ソフトバンク姫路市役所通り</store_name> 
+    <address>兵庫県姫路市庄田２０５</address> 
+    <tel>079-225-6789</tel> 
+    <station_name /> 
+    <transportation>姫路市営バス　庄田バス停　徒歩１分！セブンイレブン前</transportation> 
+    <business_hours>10:00～20:00</business_hours> 
+    <holiday>年中無休</holiday> 
+    <parking_flg>1</parking_flg> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code /> 
+  </item> 
+  <item> 
+    <spotid>K2C5</spotid> 
+    <spottype>1</spottype> 
+    <brand_name /> 
+    <store_name>ソフトバンク姫路広畑</store_name> 
+    <address>兵庫県姫路市広畑区東新町 １丁目３６</address> 
+    <tel>079-230-3113</tel> 
+    <station_name /> 
+    <transportation>山陽広畑駅より徒歩５分　姫路広畑郵便局より西へ５０Ｍ</transportation> 
+    <business_hours>10:00～20:00</business_hours> 
+    <holiday>年中無休</holiday> 
+    <parking_flg>1</parking_flg> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code /> 
+  </item> 
+  <item> 
+    <spotid>K262</spotid> 
+    <spottype>1</spottype> 
+    <brand_name /> 
+    <store_name>ソフトバンク姫路東</store_name> 
+    <address>兵庫県姫路市花田町上原田１９０－１</address> 
+    <tel>079-251-3111</tel> 
+    <station_name /> 
+    <transportation>花田インターより西へ車で５分！フレッツガーデン花田内！！</transportation> 
+    <business_hours>10:00～20:00</business_hours> 
+    <holiday>年中無休</holiday> 
+    <parking_flg>1</parking_flg> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code /> 
+  </item> 
+  <item> 
+    <spotid>K2D8</spotid> 
+    <spottype>1</spottype> 
+    <brand_name /> 
+    <store_name>ソフトバンク姫路白浜</store_name> 
+    <address>兵庫県姫路市白浜町宇佐崎中 ２丁目５７４－５</address> 
+    <tel>079-247-2525</tel> 
+    <station_name /> 
+    <transportation>宇佐崎中陸橋南降りてすぐ・ローソンの南</transportation> 
+    <business_hours>10:00～20:00</business_hours> 
+    <holiday>年中無休</holiday> 
+    <parking_flg>1</parking_flg> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code /> 
+  </item> 
+  <item> 
+    <spotid>K218</spotid> 
+    <spottype>1</spottype> 
+    <brand_name /> 
+    <store_name>ソフトバンク砥堀</store_name> 
+    <address>兵庫県姫路市砥堀３５０番地１</address> 
+    <tel>079-265-5788</tel> 
+    <station_name /> 
+    <transportation>国道３１２号線　洋服の青山姫路砥堀店向かい！</transportation> 
+    <business_hours>10:00～20:00</business_hours> 
+    <holiday>年中無休</holiday> 
+    <parking_flg>1</parking_flg> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code /> 
+  </item> 
+  <item> 
+    <spotid>K249</spotid> 
+    <spottype>1</spottype> 
+    <brand_name /> 
+    <store_name>ソフトバンク飾磨</store_name> 
+    <address>兵庫県姫路市飾磨区清水 ３丁目３３</address> 
+    <tel>079-243-1600</tel> 
+    <station_name /> 
+    <transportation>山電飾磨駅徒歩５分、うかいや飾磨店となり</transportation> 
+    <business_hours>10:00～20:00</business_hours> 
+    <holiday>年中無休</holiday> 
+    <parking_flg>1</parking_flg> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code /> 
+  </item> 
+  <item> 
+    <spotid>K2E9</spotid> 
+    <spottype>1</spottype> 
+    <brand_name /> 
+    <store_name>ソフトバンクイオン姫路大津</store_name> 
+    <address>兵庫県姫路市大津区大津町 ２丁目５</address> 
+    <tel>079-238-2927</tel> 
+    <station_name /> 
+    <transportation>北側の入口から入ってすぐのお店です</transportation> 
+    <business_hours>10:00～21:00</business_hours> 
+    <holiday>年中無休</holiday> 
+    <parking_flg>1</parking_flg> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code /> 
+  </item> 
+  <item> 
+    <spotid>20101220000015063</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ダイアナ</brand_name> 
+    <store_name>ダイアナＳｉｓｉ（シシィ）</store_name> 
+    <address>兵庫県姫路市飾磨区英賀春日町2-64 ｼﾞｭﾈｽ英賀保103号室</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20101220000015066</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ダイアナ</brand_name> 
+    <store_name>ダイアナアミーゴ</store_name> 
+    <address>兵庫県姫路市御立東3-18-7</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20101209000012234</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ダイアナコンソルテ</brand_name> 
+    <store_name>ダイアナコンソルテ</store_name> 
+    <address>兵庫県姫路市飾磨区下野田1-15ｼｬﾄﾚ21 201号</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20101209000012235</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ダイアナパレア</brand_name> 
+    <store_name>ダイアナパレア</store_name> 
+    <address>兵庫県姫路市白浜町宇佐崎北3-501大雄ﾏﾝｼｮﾝ402号</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110221000019753</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ホームメイト</brand_name> 
+    <store_name>ホームメイト 姫路支店</store_name> 
+    <address>兵庫県姫路市三左衛門堀東の町55</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110328000024273</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ポルシェセンター</brand_name> 
+    <store_name>ポルシェセンター 姫路</store_name> 
+    <address>兵庫県姫路市青山西1-9-10</address> 
+    <tel>0792-67-8911</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20100930000006398</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>マクドナルド</brand_name> 
+    <store_name>マクドナルド250網干店（1F） (★)</store_name> 
+    <address>兵庫県姫路市網干区新在家1414-11</address> 
+    <tel>0792-71-5267</tel> 
+    <station_name>山陽電鉄　　網干</station_name> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>BBMPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20101015000010416</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>マクドナルド</brand_name> 
+    <store_name>マクドナルド2号線別所店（1F） (★)</store_name> 
+    <address>兵庫県姫路市別所町別所4-8</address> 
+    <tel>079-252-5503</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours>0:00〜24:00</business_hours> 
+    <holiday>無休</holiday> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>BBMPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110324000023740</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>マクドナルド</brand_name> 
+    <store_name>マクドナルドJR姫路駅店(1F) (★)</store_name> 
+    <address>兵庫県姫路市豆腐町222</address> 
+    <tel>079-226-2884</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours>0:00〜24:00</business_hours> 
+    <holiday>無休</holiday> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>BBMPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20100930000007224</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>マクドナルド</brand_name> 
+    <store_name>マクドナルド姫路中地店（1F、2F一部） (★)</store_name> 
+    <address>兵庫県姫路市中地178</address> 
+    <tel>079-296-1788</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours>6:30〜24:00</business_hours> 
+    <holiday>無休</holiday> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>BBMPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20100930000007906</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>マクドナルド</brand_name> 
+    <store_name>マクドナルド姫路中島店(1F、2F) (★)</store_name> 
+    <address>兵庫県姫路市飾磨区中島1丁目334</address> 
+    <tel>079-233-0703</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours>0:00〜24:00</business_hours> 
+    <holiday>無休</holiday> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>BBMPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20100930000007409</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>マクドナルド</brand_name> 
+    <store_name>マクドナルド姫路北店(1F) (★)</store_name> 
+    <address>兵庫県姫路市保城660-1</address> 
+    <tel>079-225-1230</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours>0:00〜24:00</business_hours> 
+    <holiday>無休</holiday> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>BBMPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20101202000011858</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>マクドナルド</brand_name> 
+    <store_name>マクドナルド姫路東山店（1F） (★)</store_name> 
+    <address>兵庫県姫路市東山字神田252-2</address> 
+    <tel>079-246-0240</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours>0:00〜24:00</business_hours> 
+    <holiday>無休</holiday> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>BBMPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20100930000005650</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>マクドナルド</brand_name> 
+    <store_name>マクドナルド姫路花影町店（1F） (★)</store_name> 
+    <address>兵庫県姫路市花影町3-7-2</address> 
+    <tel>0792-99-2270</tel> 
+    <station_name>ＪＲ山陽線　姫路</station_name> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg>1</parking_flg> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>BBMPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20100930000007142</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>マクドナルド</brand_name> 
+    <store_name>マクドナルド姫路花田フレッツガーデン店(1F) (★)</store_name> 
+    <address>兵庫県姫路市花田町上原田189番1</address> 
+    <tel>0792-52-7151</tel> 
+    <station_name>山陽本線　御着</station_name> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>BBMPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20100930000005271</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>マクドナルド</brand_name> 
+    <store_name>マクドナルド姫路西店（2F） (★)</store_name> 
+    <address>兵庫県姫路市下手野3-824-9</address> 
+    <tel>0792-94-8567</tel> 
+    <station_name>JR神戸線　姫路</station_name> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>BBMPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20100930000008126</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>マクドナルド</brand_name> 
+    <store_name>マクドナルド姫路辻井店(1F一部、2F) (★)</store_name> 
+    <address>兵庫県姫路市辻井5-247-1</address> 
+    <tel>079-292-2688</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>BBMPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20100930000005304</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>マクドナルド</brand_name> 
+    <store_name>マクドナルド姫路駅南店（2F） (★)</store_name> 
+    <address>兵庫県姫路市東延末2-3</address> 
+    <tel>0792-83-1634</tel> 
+    <station_name>ＪＲ　姫路</station_name> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>BBMPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20101222000015392</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>マクドナルド</brand_name> 
+    <store_name>マクドナルド姫路リバーシティー店（1F） (★)</store_name> 
+    <address>兵庫県姫路市飾磨区細江520</address> 
+    <tel>079-231-2276</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours>9:00〜21:30</business_hours> 
+    <holiday>無休</holiday> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>BBMPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20100930000006419</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>マクドナルド</brand_name> 
+    <store_name>マクドナルド広畑イトーヨーカドー店（1F） (★)</store_name> 
+    <address>兵庫県姫路市広畑区夢前町1-1</address> 
+    <tel>0792-30-0512</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg>1</parking_flg> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>BBMPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20100930000007243</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>マクドナルド</brand_name> 
+    <store_name>マクドナルドイオン姫路大津店(2F一部) (★)</store_name> 
+    <address>兵庫県姫路市大津区大津町2-5 姫路大津ｲｵﾝｼｮｯﾋﾟﾝｸﾞｾﾝﾀｰ</address> 
+    <tel>079-230-2535</tel> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours>9:00〜22:00</business_hours> 
+    <holiday>無休</holiday> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>BBMPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110530000029579</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>メガネスーパー</brand_name> 
+    <store_name>メガネスーパー 姫路総本店</store_name> 
+    <address>兵庫県姫路市駅前町346</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110425000027091</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>メガネスーパー</brand_name> 
+    <store_name>メガネスーパー 姫路花北</store_name> 
+    <address>兵庫県姫路市増位新町2-27</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110516000027994</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>メガネスーパー</brand_name> 
+    <store_name>メガネスーパー 姫路飾磨</store_name> 
+    <address>兵庫県姫路市飾磨区清水字清水200</address> 
+    <tel /> 
+    <station_name /> 
+    <transportation /> 
+    <business_hours /> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note>＊</note> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+  <item> 
+    <spotid>20110328000023792</spotid> 
+    <spottype>0</spottype> 
+    <brand_name>ロッテリア</brand_name> 
+    <store_name>ロッテリア 姫路みゆき通り</store_name> 
+    <address>兵庫県姫路市駅前町237</address> 
+    <tel>079-281-6120</tel> 
+    <station_name>山陽本線　姫路駅</station_name> 
+    <transportation /> 
+    <business_hours>7:00〜22:30</business_hours> 
+    <holiday /> 
+    <parking_flg /> 
+    <image_file /> 
+    <url /> 
+    <note /> 
+    <service_solution_code>SWSPSH</service_solution_code> 
+  </item> 
+</spot_list> 
